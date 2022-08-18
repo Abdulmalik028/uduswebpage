@@ -1,0 +1,83 @@
+Name=Garba bilikis
+Matric number=210603EGC026
+Course code=Edu801
+Lecturer in charge=professor Akinubi
+Assignment one
+Short note on the following 
+1-Google form
+2-variable view
+3-data view 
+Answer
+(1) Google Forms is free online software that allows you to create surveys, quizzes, and . It's part of Google's web-based apps suite, including Google Docs, Google Sheets, Google Slides, and more. It's a versatile tool that can be used for various applications, from gathering RSVPs for an event to creating a pop quiz. 
+You'll need a Google account to create a Google Form, but you can adjust the settings so that anyone can fill it out, meaning no Google account is required.
+
+(2)According to SPSS tutorial 
+The Variable View tab displays information about the variables in your data. You can get to the Variable View window in two ways: In the Data Editor window, click the Variable View tab at the bottom. In the Data Editor window, in the Data View tab, double-click a variable name at the top of the column.
+
+(3) A DataView enables you to create different views of the data stored in a DataTable, a capability that is often used in data-binding applications. Using a DataView, you can expose the data in a table with different sort orders, and you can filter the data by row state or based on a filter expression.
+Question two
+Four statistical packages that could be used in data analysis and explain 
+Answer 
+	0.	Dplyr
+	0.	ggplot2
+	0.	KernLab
+	0.	DataExplorer
+(1)Dplyr
+It is one of the most used R packages for data science and machine learning tasks. This package is written by Hadley Wickham. It is used to solve data manipulation tasks. It has a set of functions for data manipulation. It is also called a grammar of data manipulation. It has s set of verbs that help us to solve the most challenging data manipulation tasks such as mutate(), select(), filter(), summarise(), arrange().
+(2)ggplot2
+One of the most popular and widely used R package for data visualization and exploratory data analysis. You can create interactive data visualizations using this package. It provides a wide range of pretty plots that take care of minute details as well as drawing legends. This package works under deep grammar called “Grammar of graphics”. It provides a wide range of plots like scatterplot, bubble plots. Jitter plots are charts, histograms, density plots, box plots, violin plots, dendrograms, and many more.
+(3)kernlab
+This package also called a Kernel-Based Machine Learning Lab. This package is used for regression, classification, dimensionality reduction, anomaly detection, clustering. If you want to use algorithms that involve a kernel-based approach then you can use it like SVM, ranking algorithm, kernel feature analysis ad many more. It is widely used for SVM implementations. It has a wide range of kernel functions like for polynomial kernel function we can use polydot(), hyperbolic tangent kernel function for tanhdot() etc.
+(4)data explorer
+ This R package is one of the easiest to use packages for data science and machine learning. This package mainly focuses on three goals:
+	0.	Exploratory Data analysis
+	0.	Feature Engineering
+	0.	Data Reporting
+This package automated exploratory data analysis for analytics tasks and predictive modeling by visualizing each feature present in our dataset.
+Question three
+Five relevance of computer 
+Answer 
+(1) Fast and Easy Learning
+Computers have a big role in the learning process in education. Students can easily comprehend what they are being taught with the help of the computer,  through videos that show what they are being taught and with other resources made available from using the computer. For instance, computer animations and graphics can be used to understand how the earth moves and the phenomenon of the solar and lunar eclipse. 
+(2) Increased productivity
+Computer help to make workers faster and much more productive. It saves valuable time in the office or business. It makes filing and keeping database and tracking records fast. Account keeping and record keeping is now much easier and less stressful than it used to be in time past. The use of the computer eliminates the abuse of workload while increasing the effectiveness of trade and industry. A computer makes processes very easy in the business sector
+(3) Quick and Cashless Bank Transactions
+Online banking is another way that computer helps in banking,  you can retrieve all your previous transaction records within a minute, transfer and receive money from your home, school or office with the click of few buttons. Gone are the days that you have to stand on queues just to send or transfer money.
+(4) Assistance to the Disabled
+The computer also helps those who are disabled. Microprocessor based voice system help people with disabilities speaking with terminals that directs the computer to a verbal job, helps the deaf to communicate and the blind to see either with the use of the keyboard or the help of speech synthesizers.  The computer makes the disabled to be more active, performing the task that they could not before.
+(5) Data Processing, Organisation and Presentation
+The computer provides the equipment to help manage in the office environment. It provides a word processing type of electronic method that helps in the production and editing of letters, documents, reports and any other thing that needs to be typed. The computer can be used to send memos, prepare spread presentations and spreadsheets. The computer is important in the storing of patient records, scheduling nurses, doctors and other medical personnel, indexing and purchase of drugs and many other things. All bank data can easily be collected and stored in a computer,  and they are also easy to retrieve. Lots of time can be saved when processing data. Books can easily be categorized and catalogued with the help of the computer.
+Things such as student registration, class scheduling and test and examination result processing can be carried out fast and efficiently by the computer aiding the school administration.
+Question four
+(1) 1. Decide on your research goals
+Before you can start your research, you will need to form a clear picture in your mind of your survey objectives and the expected outcome. Do you need feedback on a product or your service? Is the information you are looking for of a general nature or very specific? Do you have a particular audience in mind, or will you be sending out online surveys to the general public? The answers to these questions will help you to decide how to target your survey.
+(2) 2. Create a list of questions
+There are many different types of questions that can be used on a survey, like open questions, closed questions, matrix table questions, and single- or multi-response questions. Most people who take part in surveys prefer short multiple-choice questions. When writing the questions, keep the language very simple and avoid ambiguity or double negations. One of the benefits of designing an online survey is that participants don’t have to fill in questions that are not relevant to them. Based on their answers subsequent questions can be skipped using logic and piping, improving response rates.
+
+3. Invite the participants
+There are many ways to invite people to take part in your online survey. Who you want to take part in your survey will help you to decide on the best distribution method. You can send an email to your subscriber list, post your survey on Facebook, send surveys by SMS or design a banner that can be displayed on other websites if you wish to cast a wider net. If your research goals require targeting a specific audience you can buy survey responses from a dedicated consumer panel.
+4. Gather your responses
+It is important to monitor your response rate, as your final sample size will depend on how many participants complete your survey. In many cases you can increase the response rate by offering an incentive to the participant, for example, you can offer a gift, the chance of winning something in a lottery, a donation to charity, or a points accumulation system where participant can save up points that can be exchanged for gifts. Another way of increasing the response rate of your survey is by promising to share the results with your participants.
+5. Analyse the results
+Visualise your data by presenting the results in charts and graphs, as this will help you quickly reference your results in reports. You can also make use of text analysis and word clouds on open ended questions to pick out common response trends. You can also print out the data in the form of a spreadsheet, which can then be exported for further analysis. With online surveys the gathered data is stored automatically, so you can start analysing the results straight away. In most cases, you can already see preliminary results while the survey is still open.
+6. Write a report
+The final step in conducting online surveys is to produce a report explaining your findings and whether they have met your research goals. A successful survey will provide reliable answers to the questions you had about your business, product or service, allowing you to take data-driven actions based on hard evidence. Used correctly online surveys can effectively measure customer satisfaction, get feedback on products or services, and reveal key influences in your area of research.
+The process for conducting an online survey is easy and inexpensive. SmartSurvey can provide you with all the tools and features needed to help you in designing your survey. Most businesses’ needs can be met with simple and short online surveys that target a specific group of customers. The results, on the other hand, are priceless, because they will help you make important and informed decisions about your business.
+Question five
+(1) Load your excel file with all the data. Once you have collected all the data, keep the excel file ready with all data inserted using the right tabular forms.
+(2)
+Import the data into SPSS. You need to import your raw data into SPSS through your excel file. Once you import the data, the SPSS will analyse it.
+(3) Give specific SPSS commands. Based on what you want to examine, you can give desired commands as per the requisitions in the SPSS software. Each tool has guidelines on how it should be used and you can feed in all the options to get the most accurate results. Giving commands in SPSS is simple and easy to comprehend, making it an easy task for students to do this by themselves.
+(4) Retrieve the results. The results from the software are given efficiently and accurately, providing researchers a better idea of appropriate future studies and a direction for moving forward.
+(5)
+
+Analyse the graphs and charts. Understanding the results can be a little difficult. but you can get help from professors and peers with the analysis. You can also consult a professional company which is expert in SPSS.
+
+(6) Postulate conclusions based on your analysis. The ultimate objective of the SPSS is to help arrive at conclusions based on specific research. The software helps you to derive conclusions and predict the future easily with minimum statistical deviation.
+
+
+ 
+
+
+ 
+

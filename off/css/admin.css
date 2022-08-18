@@ -1,0 +1,46 @@
+body{
+    
+    background-color: greenyellow;
+}
+.vertical-nav{
+    min-width: 17rem;
+    width: 17rem;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.1);
+    transition: all 0.4s;
+}
+.responsive{
+    max-width: 100%;
+    height: auto;
+}
+#sidebar.active{
+    margin-left: -17rem;
+}
+.page-content{
+    width: calc(100%-17rem);
+    margin-left: 17rem;
+    transition: all 0.4s;
+}
+#content.active{
+    width: 100%;
+    margin: 0;
+}
+.separator{
+    margin: 3rem 0;
+    border-bottom: 1px dashed white;
+
+}
+.text-uppercase{
+    letter-spacing: 0.1rem;
+}
+.container-fluid{
+    width: 100%;
+    height: 100vh;
+    background-image:url('image/libery.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

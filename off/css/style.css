@@ -1,0 +1,83 @@
+
+body{
+    background-color: greenyellow;
+}
+h2{
+  font-size: 60px;
+  text-align: center;
+  color: black;
+  font-weight: lighter;
+}
+h1{
+    font-size: 30px;
+}
+
+ul li{
+  list-style-type: none;
+  color: white;
+}
+.his{
+  text-indent: 50px;
+  padding: 5px;
+}
+.me{
+  margin: 50px;
+}
+
+
+.you li a{
+  text-decoration: none;
+}
+ .you li a:hover{
+  color: black;
+}
+.bag{
+  
+  background-color: greenyellow;
+}
+marquee{
+  padding-top: 20px;
+  color: black;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.udus{
+    float: right;
+    padding-right: 20%;
+    padding-top: 60px;
+    
+    
+    
+    
+}
+.responsive{
+  width: 100%;
+  height: 60vh;
+
+}
+ .me ul li a:hover{
+  color: black;
+
+}
+
+
+p{
+    color: green;
+    font-weight: 500;
+}
+ li a:hover{
+  color: green;
+}
+.img-responsive2{
+
+transition: .4s;
+
+
+
+}
+.img-responsive2:hover{
+  opacity: 2.3;
+  transform: scale(0.6);
+  
+}

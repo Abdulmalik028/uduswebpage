@@ -1,0 +1,19 @@
+body{
+    background-color:greenyellow;
+}
+.container-fluid{
+    background-color: greenyellow ;
+    
+}
+h1{
+    color: green;
+
+}
+.me li a{
+  text-decoration: none;
+
+}
+ul li{
+  color: white;
+  list-style-type: none;
+}
