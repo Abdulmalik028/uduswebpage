@@ -16,19 +16,19 @@
 <?php include("head.php");?>
 </head>
 <body>
-    <div class="main">
-    <div class="row">
-        <div class="col-lg-12">
-        <form class="example"  id="mySearch" onkeyup="myFunction()">
-  <input type="text" placeholder="Search.." name="search">
-  <button type="submit"><i class="fa fa-search"></i></button>
-</form>
 
-</div>
-</div>
+    
+    
+    
+    
+    
+    
+        
+
 
     
         <div class='row' >
+          
     <?php
     
     $sql = "SELECT * FROM past_1 ";
@@ -39,14 +39,20 @@
             $title = $arr['title'];
             $file_name = $arr['file'];
             $date = $arr['date'];
-            
-
-
+            echo "
+            <tr>
+                <td>$id</td>
+                <td>$title</td>
+                
+            </tr>                                    
+            ";
+          
 
            
 
             echo "
-             <div class='col-lg-4 mb-3' >
+           
+             <div class='col-lg-3 mb-3' >
             <div class='card h-100 mt-5' style= 'border-radius:2%; border:5px dotted white;  background-color:gold;'>
             
             <img src='docu/$file_name' style='max-width: 100%;height: 100px;'>
@@ -155,21 +161,6 @@ form.example{
 
 </style>
 <script>
-function myFunction() {
-    var input, filter, ul, li, a, i;
-    input = document.getElementById("mySearch");
-    filter = input.value.toUpperCase();
-    ul = document.getElementById("myMenu");
-    li = ul.getElementsByTagName("li");
-    for (i = 0; i < li.length; i++) {
-        a = li[i].getElementsByTagName("a")[0];
-        if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-            li[i].style.display = "";
-        } else {
-            li[i].style.display = "none";
-        }
-    }
-}
 </script>
 
 <script src="../off/jr/all.min.js"></script>
